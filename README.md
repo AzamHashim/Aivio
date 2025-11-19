@@ -1,6 +1,7 @@
 Aivio: The Next Evolution in Video Sharing
 Aivio is a modern, futuristic video sharing platform designed for creators who dare to innovate and viewers who demand more. Built with cutting-edge technology and a sleek, intuitive interface, Aivio transforms how we create, share, and experience video content.
 
+
 Key Features:
 
 Smart Upload System: Seamlessly upload and manage your content with advanced processing
@@ -12,6 +13,7 @@ Community Engagement: Real-time comments, reactions, and meaningful interactions
 Creator-Centric Tools: Advanced analytics, channel customization, and growth features
 
 Personalized Discovery: AI-powered recommendations tailored to your interests
+
 
 Why Choose Aivio?
 
@@ -25,6 +27,7 @@ Community Focused: Build meaningful connections with your audience
 
 Privacy Protected: Your data remains secure and under your control
 
+
 For Creators:
 
 Monetize your passion with multiple revenue streams
@@ -35,6 +38,7 @@ Grow your audience with smart promotion features
 
 Join a supportive community of innovators
 
+
 For Viewers:
 
 Discover content that truly resonates with you
@@ -44,6 +48,7 @@ Enjoy ad-free premium viewing options
 Interact with creators in meaningful ways
 
 Curate your perfect entertainment experience
+
 
 
 Feature Highlights
